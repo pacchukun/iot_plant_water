@@ -1,4 +1,4 @@
-# iot_plant_water
+# IOT PLANT WATERING SYSTEM with Google assistant integration using IFTTT
 
 ## Idea
 I've seen people using smart watering systems to water their gardens remotely.But those systems were expensive to be shipped in india so i've decided to build my own.
